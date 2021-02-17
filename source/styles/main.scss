@@ -1,4 +1,9 @@
 //write here your scss styles
 body {
   background-color: 'red';
+  p {
+    color: red;
+  }
 }
+
+@import './button.scss';
